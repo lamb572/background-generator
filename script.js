@@ -58,3 +58,5 @@ var userNamePrompt = prompt("whats your username?");
 var passwordPrompt = prompt(" whats your password?");
 
 signIn(userNamePrompt,passwordPrompt);
+
+let bob ="bob"

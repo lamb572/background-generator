@@ -1,0 +1,19 @@
+{
+  "name": "section18npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lamb572/section18NPM.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lamb572/section18NPM/issues"
+  },
+  "homepage": "https://github.com/lamb572/section18NPM#readme"
+}

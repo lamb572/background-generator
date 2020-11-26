@@ -59,4 +59,4 @@ var passwordPrompt = prompt(" whats your password?");
 
 signIn(userNamePrompt,passwordPrompt);
 
-let bob ="bob"
+let bob ="bob123"

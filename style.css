@@ -1,0 +1,9 @@
+body{
+    background-color: darkgoldenrod;
+}
+h1 {
+    font-family: fantasy;
+    font-style: italic;
+    font-weight: 800;
+    color: chocolate;
+}

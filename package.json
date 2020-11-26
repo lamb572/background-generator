@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/lamb572/section18NPM/issues"
   },
-  "homepage": "https://github.com/lamb572/section18NPM#readme"
+  "homepage": "https://github.com/lamb572/section18NPM#readme",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
 }
